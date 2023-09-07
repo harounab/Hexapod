@@ -1,4 +1,4 @@
-*Hexapod robot using semantic segmentation accelerated on Ultra96v2*
+**Hexapod robot using semantic segmentation accelerated on Ultra96v2**
 repo conetent: 
 
 1. Pi : the raspberry Pi Server Code 
